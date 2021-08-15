@@ -1,6 +1,6 @@
 # Hello-ML
 
-I have implemented and wrote articles on various projects in data science and analytics which are live on Hello ML Website at https://helloml.org/author/gayathri/
+### I have implemented and wrote articles on various projects in data science and analytics which are live on Hello ML Website at https://helloml.org/author/gayathri/
 
 ## 1. Introduction to Exploratory Data Analysis with an Example
 
